@@ -12,3 +12,4 @@
 /Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.pdb
 /Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.genruntimeconfig.cache
 /Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/ref/Competition2.dll
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.sourcelink.json
