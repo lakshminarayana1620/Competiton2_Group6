@@ -1,0 +1,14 @@
+/Users/lakshminarayananallamothu/Competition2/bin/Debug/net10.0/Competition2
+/Users/lakshminarayananallamothu/Competition2/bin/Debug/net10.0/Competition2.deps.json
+/Users/lakshminarayananallamothu/Competition2/bin/Debug/net10.0/Competition2.runtimeconfig.json
+/Users/lakshminarayananallamothu/Competition2/bin/Debug/net10.0/Competition2.dll
+/Users/lakshminarayananallamothu/Competition2/bin/Debug/net10.0/Competition2.pdb
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.AssemblyInfoInputs.cache
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.AssemblyInfo.cs
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.csproj.CoreCompileInputs.cache
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.dll
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/refint/Competition2.dll
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.pdb
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/Competition2.genruntimeconfig.cache
+/Users/lakshminarayananallamothu/Competition2/obj/Debug/net10.0/ref/Competition2.dll
